@@ -14,8 +14,8 @@ mpl.rcParams['pdf.fonttype'] = 42
 mpl.rcParams['ps.fonttype'] = 42
 
 # Line properties
-mpl.rcParams['lines.linewidth'] = .75
-mpl.rcParams['lines.markersize'] = 3
+mpl.rcParams['lines.linewidth'] = 1.
+mpl.rcParams['lines.markersize'] = 4
 
 # Legends
 mpl.rcParams['legend.frameon'] = False
