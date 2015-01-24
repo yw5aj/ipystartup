@@ -24,7 +24,3 @@ mpl.rcParams['legend.handlelength'] = 3
 
 # Subplot frame line
 mpl.rcParams['axes.linewidth'] = .5
-
-
-
-
