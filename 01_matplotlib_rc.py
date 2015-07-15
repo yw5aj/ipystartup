@@ -3,7 +3,7 @@ import matplotlib as mpl
 
 # Figure formatting
 mpl.rcParams['savefig.dpi'] = 300
-mpl.rcParams['figure.figsize'] = (3.27, 3.27)
+mpl.rcParams['figure.figsize'] = (3.5, 3.5)
 
 # Font setting
 mpl.rcParams['mathtext.default'] = 'regular'
