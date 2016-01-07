@@ -24,3 +24,10 @@ mpl.rcParams['legend.handlelength'] = 3
 
 # Subplot frame line
 mpl.rcParams['axes.linewidth'] = .5
+
+# Color of ticks, axes, and labels
+color = '.5'
+mpl.rcParams['axes.edgecolor'] = color
+mpl.rcParams['xtick.color'] = color
+mpl.rcParams['ytick.color'] = color
+mpl.rcParams['axes.labelcolor'] = color
