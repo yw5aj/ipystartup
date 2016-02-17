@@ -30,4 +30,3 @@ color = '.5'
 mpl.rcParams['axes.edgecolor'] = color
 mpl.rcParams['xtick.color'] = color
 mpl.rcParams['ytick.color'] = color
-mpl.rcParams['axes.labelcolor'] = color
