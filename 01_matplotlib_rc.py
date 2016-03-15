@@ -12,6 +12,7 @@ mpl.rcParams['font.sans-serif'] = ['Arial']
 mpl.rcParams['font.size'] = 8
 mpl.rcParams['pdf.fonttype'] = 42
 mpl.rcParams['ps.fonttype'] = 42
+mpl.rcParams['svg.fonttype'] = 'none'
 
 # Line properties
 mpl.rcParams['lines.linewidth'] = 1.
